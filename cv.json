@@ -1,0 +1,256 @@
+{
+  "basics": {
+    "name": "Fermim Arévalo",
+    "label": "Desarrollador Full Stack con experiencia en JavaScript, React, Node.js y más. Apasionado por crear soluciones innovadoras y eficientes.",
+    "image": "./fermin.webp",
+    "email": "fermin.arevalo@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://ferminarevalo.com",
+    "summary": "Experiencia de 8 años como Mezclador en una amplia variedad de generos que van desde el Entretenimento, Musica, Noticias, Debates, Magacines, Programas infantiles, Deportes (Baloncesto, Futbol, Balonmano, Rugby, Hípica, Personalizacion de Final de Champions 2014, Mundial Natacion Barcelona 2013, Mundial Atletismo Barcelona 2010, etc..). Capaz de trabajar con diferentes mesas de mezclas y equipamientos audiovisuales. Con gran destreza organizativa, multitarea y de rapida reaccion bajo presion. Seguro a la hota de tomar la iniciativa y lidiar con problemas o circunstancias inesperadas durante las retransmisiones. Facilidad de trabajo en grandes equipos.",
+    "location": {
+      "address": "Maravedi 12, 4º C",
+      "postalCode": "28054",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "region": "Madrid"
+    },
+    "profiles": [
+      {
+        "network": "X",
+        "username": "ferminarevalo",
+        "url": "https://x.com/ferminarevalo"
+      },
+      {
+        "network": "Linkedin",
+        "username": "ferminarevalo",
+        "url": "https://linkedin.com/in/ferminarevalo"
+      },
+      {
+        "network": "Github",
+        "username": "ferminarevalo",
+        "url": "https://github.com/ferminarevalo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "President",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "",
+      "summary": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. .",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Company2",
+      "position": "President2",
+      "url": "https://company.com",
+      "startDate": "2008-01-01",
+      "endDate": "20102-01-01",
+      "summary": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Company3",
+      "position": "President3",
+      "url": "https://company.com",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "summary": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. ",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. ",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "7.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "College",
+      "url": "https://institution.com/",
+      "area": "Ingeniring",
+      "studyType": "Bachelor",
+      "startDate": "2010-01-01",
+      "endDate": "2011-01-01",
+      "score": "8.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Html",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Github",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Git",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Css",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "React",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "isActive": true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
+      "highlights": [" CV/resume framework. ", "adipiscing elit"],
+
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project2",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
+      "highlights": ["YAML file ", "adipiscing "],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project3",
+      "isActive": true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "RenderCV is a latext CV/resume framework. It allows you to create a high-quality CV as a PDF from a YAML file with full Markdown syntax support and complete control over the latex codeDescription...",
+      "highlights": ["RenderCV YAML "],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project4",
+      "isActive": true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
+      "highlights": ["Render", "CV ", "YAML file "],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project5",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "RenderCV is a latext CV/resume framework. It allows you to create a high-quality CV as a PDF from a YAML file with full Markdown syntax support and complete control over the latex codeDescription...",
+      "highlights": ["RenderCV ", "the latex", " codeDescription."],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project6",
+      "isActive": true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
+      "highlights": ["RenderCV."],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project7",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "RenderCV is a latext CV/resume framework. It allows you to create a high-quality CV as a PDF from a YAML file with full Markdown syntax support and complete control over the latex codeDescription...",
+      "highlights": ["codeDescription..."],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project8",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
+      "highlights": ["RenderCV full Markdown "],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project9",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "RenderCV is a latext CV/resume framework. It allows you to create a high-quality CV as a PDF from a YAML file with full Markdown syntax support and complete control over the latex codeDescription...",
+      "highlights": ["Markdown syntax "],
+      "url": "https://project.com/"
+    }
+  ]
+}
